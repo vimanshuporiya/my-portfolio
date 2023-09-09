@@ -1,0 +1,41 @@
+
+
+.education-section {
+    margin-top: 30px;
+  }
+  
+  .education-list {
+    display: grid;
+    gap: 20px;
+  }
+  
+  .education-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .education-item h3 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .education-item p {
+    margin: 8px 0;
+  }
+  
+  .school {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .field {
+    color: #666;
+  }
+  
+  .dates {
+    color: #999;
+  }
+  
